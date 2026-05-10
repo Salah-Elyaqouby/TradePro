@@ -13,6 +13,11 @@ TradePro was created as a complete frontend concept for a trading platform. It d
 The application includes landing pages, authentication flows, market tracking, wallet management, and trading-related interfaces.
 
 ---
+## Live Demo
+
+https://tradee-pro.netlify.app/
+
+---
 
 ## Features
 
